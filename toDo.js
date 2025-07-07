@@ -56,6 +56,8 @@
   liAll.forEach(li => {
     li.style.marginTop = "5px";
     li.style.marginBottom = "5px";
+    li.style.width = "60%";
+    li.style.margin = "0% 4%";
   });
 
 
